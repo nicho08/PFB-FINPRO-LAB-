@@ -11,7 +11,7 @@
         <div class="logo">Severos</div>
         <nav>
             <a href="home.html">Home |</a>
-            <a href="../Register/Register.html">Register</a>
+            <a href="../Register/Register.php">Register</a>
         </nav>
     </header>
 <div class="herobox">

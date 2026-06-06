@@ -23,7 +23,7 @@
 
         <button type="button">Login</button>
 
-        <h3>Dont have an account? </nav></h3> <nav><a href="../Register/Register.html">Register Here</a>
+        <h3>Dont have an account? </nav></h3> <nav><a href="../Register/Register.php">Register Here</a>
         
     </main>
     <footer>@ 2025 Severos</footer>
